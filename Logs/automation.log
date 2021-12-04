@@ -1,0 +1,10 @@
+12/04/2021 03:20:28 PM: INFO: ************* Test_003_AddCustomer **********
+12/04/2021 03:20:37 PM: INFO: ************* Login succesful **********
+12/04/2021 03:20:37 PM: INFO: ******* Starting Add Customer Test **********
+12/04/2021 03:20:42 PM: INFO: ************* Providing customer info **********
+12/04/2021 03:20:54 PM: INFO: ************* Saving customer info **********
+12/04/2021 03:20:54 PM: INFO: ********* Add customer validation started *****************
+12/04/2021 03:20:55 PM: INFO: ********* Add customer Test Passed *********
+12/04/2021 03:20:56 PM: INFO: ******* Ending Add customer test **********
+12/04/2021 03:20:57 PM: INFO: ****Started Login Test****
+12/04/2021 03:21:03 PM: INFO: ****Login test passed ****
